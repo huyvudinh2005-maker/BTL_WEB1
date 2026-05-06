@@ -1,4 +1,4 @@
-# HỆ THỐNG QUẢN LÍ NHÀ HÀNG / QUÁN CÀ PHÊ
+# HỆ THỐNG QUẢN LÍ NHÀ HÀNG
 
 ## 1. Giới thiệu đề tài
 
